@@ -8,21 +8,7 @@ published: true
 {% include JB/setup %}
 
 ## This is a test of the Jekyll Broadcasting Service
-This here is a test to see if this can actually work. Did it?
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
+This here is a test to see if this can actually work.
     
 ## Sample Posts
 
