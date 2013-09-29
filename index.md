@@ -8,7 +8,7 @@ published: true
 {% include JB/setup %}
 
 ## This is a test of the Jekyll Broadcasting Service
-This here is a test to see if this can actually work. Did it? Obviously.
+This here is a test to see if this can actually work. Did it?
 
 ## Update Author Attributes
 
